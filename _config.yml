@@ -18,15 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: psc's website
-author: Pablo Samuel Castro
-email: psc@google.com
+title: thaovu's website
+author: Vu Phuong Thao
+email: vuphuongthao9611@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  psc's website.
+  thaovu's website.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://psc-g.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: pcastr
-github_username:  psc-g
+url: "https://thao9611.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+
+github_username:  thao9611
 
 # Build settings
 theme: minima
