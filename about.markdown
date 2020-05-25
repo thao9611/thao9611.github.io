@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-My name is Vu Thao. I was born in Namdinh, Vietnam. I used to study Computer Science at KAIST. My research focuses on Machine Learning and its issues in society such as interpretability and fairness. I play badminton and do Taekwondo. 
+I was born in Namdinh, Vietnam. I studied Computer Science and Mathematics at KAIST, Korea and focused on Machine Learning and related problems such as interpretability and fairness. I play badminton and do Taekwondo. 
 
 This is my blog.
 
