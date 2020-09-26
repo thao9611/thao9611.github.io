@@ -4,7 +4,7 @@ title:  "When A/B testing isn't realiable"
 date:   2018-12-31 21:36:38 -0500
 categories: Exploring
 ---
-This isn’t what I have learnt. This is simply what I have read and summarized by my understand.
+This is simply what I have read and summarized by my understand.
 
 ## Budget Effect 
 
